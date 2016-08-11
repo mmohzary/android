@@ -1,4 +1,5 @@
-package com.example.android.justjava;
+// Add your package below. This is the package name our example uses:
+/* package com.example.android.justjava; */
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
